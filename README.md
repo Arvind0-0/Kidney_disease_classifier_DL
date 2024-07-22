@@ -37,13 +37,3 @@ conda activate cnncls
 ```bash
 pip install -r requirements.txt
 ```
-
-```bash
-# Finally run the following command
-python app.py
-```
-
-Now,
-```bash
-open up you local host and port
-```
